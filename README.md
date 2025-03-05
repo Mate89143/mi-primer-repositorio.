@@ -12,6 +12,7 @@ Listado de comandos GIT importantes:
 -	GIT PUSH: Subir los cambios al otro repositorio.
 -	GIT RESTORE: Deshacer o descartar los cambios locales no comprometidos.
 -	GIT STATUS: Muestra el estado del directorio de trabajo y del área de preparación.
+  
 ¿Qué es Git y cuál es su función en el desarrollo de software?
 Git es un proyecto de código abierto de calidad.
 Los encargados de mantener el proyecto han demostrado un criterio equilibrado y un enfoque maduro para satisfacer las necesidades a largo plazo de sus usuarios con publicaciones periódicas que mejoran la facilidad de uso y la funcionalidad.
